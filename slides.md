@@ -5,10 +5,7 @@ class: text-center
 highlighter: shiki
 lineNumbers: false
 info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
+Presentazione per gianna
 drawings:
   persist: false
 title: L'inferno fantastico di Nastagio degli onesti
