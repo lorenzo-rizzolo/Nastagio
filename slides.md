@@ -4,8 +4,10 @@ background: https://source.unsplash.com/collection/94734566/1920x1080
 class: text-center
 highlighter: shiki
 lineNumbers: false
-info: |
-Presentazione per gianna
+info:   ## Slidev Starter Template
+  Nastasio
+
+  Learn more at [Sli.dev](https://sli.dev)
 drawings:
   persist: false
 title: L'inferno fantastico di Nastagio degli onesti
