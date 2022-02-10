@@ -36,3 +36,4 @@ Nastagio degli Onesti, amando una de’ Traversari, spende le sue ricchezze senz
 Una donna nuda corre nel fitto di una pineta inseguita da un cavaliere tutto armato di nero e dai suoi due cani; il cavaliere urla offese, la donna grida lamenti. Infine viene presa e trucidata. Una scena da fantasy, erotica e violenta insieme, moderatamente splatter, che potremmo vedere nel Trono di Spade. Questa visione incontra lo sguardo disperato d’amore di un giovane, Nastagio, che è in quella pineta per dimenticare la donna che ama e da cui non è riamato. Il giovane capisce che si tratta di un’anticipazione per exemplum di quello che sarà il suo destino, se non vi porrà rimedio.
   
 </template>
+---
