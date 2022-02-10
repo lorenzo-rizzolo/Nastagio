@@ -1,6 +1,7 @@
 ---
 theme: default
 background: https://source.unsplash.com/collection/94734566/1920x1080
+
 class: text-center
 highlighter: shiki
 lineNumbers: false
@@ -20,10 +21,12 @@ Istituto Agnelli
 ---
 layout: two-cols
 ---
+<style> 
 
-<template v-slot:default>
+</style>
+<template v-slot:default style="background-color: black">
 
-# Poesia
+# <p class="titolo">Prosa</p>
 
 Nastagio degli Onesti, amando una de’ Traversari, spende le sue ricchezze senza essere amato; vassene pregato da’ suoi a Chiassi; quivi vede cacciare a un cavaliere una giovane e ucciderla e divorarla da due cani; invita i parenti suoi e quella donna amata da lui a un desinare, la quale vede questa medesima giovane sbranare e temendo di simile avvenimento prende per marito Nastagio.
 
